@@ -1,2 +1,2 @@
 # zinx
-zinx
+zinx notebook
